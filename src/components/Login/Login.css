@@ -1,0 +1,30 @@
+.login {
+  display: flex;
+  justify-content: center;
+  margin-top: 20px;
+}
+.containerlog {
+  display: flex;
+  flex-direction: column;
+  width: 400px;
+  border: 1px solid gray;
+  padding: 20px 30px;
+}
+input {
+  width: 94.5%;
+  padding: 10px;
+  margin-top: 5px;
+  border: 1px solid #ccc;
+}
+hr {
+  width: 100%;
+  margin-top: 30px;
+}
+button {
+  padding: 5px;
+  background-color: #2f3fd3;
+  border: 1px solid;
+  padding: 5px 10px;
+  cursor: pointer;
+  color: wheat;
+}

@@ -1,0 +1,58 @@
+.search-head {
+  background: linear-gradient(to right, #061627, #0f325a, #134175);
+}
+
+.head-info-box {
+  background-color: rgba(77, 171, 253, 0.1);
+  color: white;
+  /* margin-left: 1rem; */
+  /* margin-top: 1rem; */
+}
+
+.search-body {
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+
+.search-item {
+  background-color: white;
+}
+
+p {
+  margin: 0;
+}
+h1,
+h2,
+h6,
+h5,
+hr {
+  margin: 0;
+}
+
+.time-estimate {
+  width: 400px;
+}
+
+.accordion-item {
+  width: 90%;
+  margin: auto;
+}
+
+.book-now {
+  height: 40px;
+}
+#forms {
+  display: flex;
+  flex-direction: column;
+  /* margin: 40px; */
+  padding: 20px;
+  width: 100%;
+  width: 300%;
+}
+
+/* @media (max-width: 768px) {
+  .accordion-item {
+    width: 90%;
+    margin: auto;
+  }
+} */

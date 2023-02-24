@@ -1,0 +1,36 @@
+.homeSearch:hover {
+  background-color: rgba(77, 171, 253, 0.2);
+}
+
+.flight-icon {
+  bottom: 30px;
+  width: 50%;
+}
+
+.search-element {
+  cursor: pointer;
+}
+
+.search-element:hover {
+  background-color: rgba(77, 171, 253, 0.2);
+}
+
+.search-box {
+  top: 275px;
+  width: 275px;
+}
+
+.search-btn {
+  top: 65px;
+}
+
+.flight-search-section {
+  background-color: #134175;
+  width: 100%;
+  height: 261px;
+  padding-top: 100px;
+}
+.form-floating {
+  display: flex;
+  width: 150px;
+}
